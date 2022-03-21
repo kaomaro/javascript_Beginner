@@ -1,6 +1,10 @@
 # Reading javascript
 ## 読み込み方法は３つ
 
+Exemplary | Adequate | Needs Improvement
+--- | --- | -- |
+|Explained why web developer would use tool| Explained how, but not why developer would use tool| Did not mention how or why a developer would use tool  |
+
 １ | ２ | ３
 headタグに記述 | 外部ファイルを読み込み | bodyタグに記述
 
