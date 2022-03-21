@@ -1,9 +1,8 @@
 # Reading javascript
-## Explanation
-読み込み方法は３つ
-１　headタグに記述
-２　外部ファイルを読み込み
-３　bodyタグに記述
+## 読み込み方法は３つ
+
+１|２|３
+headタグに記述|外部ファイルを読み込み|bodyタグに記述
 
 <html>
   <head>
